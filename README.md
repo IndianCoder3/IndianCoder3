@@ -37,6 +37,7 @@ Class 5 student - Pronouns: he/him
 
 - **QR Code Generator**  
   🔗 Repo: https://github.com/IndianCoder3/qr-code-generator
+  🔗 New Repo: https://github.com/IndianCoder3/Str-QR-Code-Gen_ic3
 
 ---
 
