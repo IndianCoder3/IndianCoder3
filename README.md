@@ -5,6 +5,8 @@ Hi! I’m **Abhinu Gupta**, a student developer who enjoys building games, small
 and creative programming projects. I learn by experimenting, iterating, and sharing
 my work online.
 
+Class 5 student - Pronouns: he/him
+
 ---
 
 ## 🌐 Online Presence
@@ -18,41 +20,38 @@ my work online.
 
 ### 🕹️ Games
 - **Tic-Tac-Toe**  
-  A classic two-player game built using **HTML and JavaScript**.
+  HTML & JavaScript game  
+  🌐 Demo: https://indiancoder3.netlify.app/projects
 
 - **Snake & Ladder Game** (Scratch)  
-  A board-style game created on Scratch as part of learning game logic.
+  🔗 Project: https://scratch.mit.edu/users/IndianCoder3/
 
 ---
 
 ### 🐍 Python Projects
 - **BMI App**  
-  A Python application that calculates Body Mass Index from user input.
+  🔗 Repo: https://github.com/IndianCoder3/bmi-app
 
 - **PyCalc**  
-  A simple command-line calculator written in Python.
+  🔗 Repo: https://github.com/IndianCoder3/pycalc
 
 - **QR Code Generator**  
-  A Python utility that generates QR codes.
+  🔗 Repo: https://github.com/IndianCoder3/qr-code-generator
 
 ---
 
 ### 🧩 Small Basic Projects
 - **Basic Time App**  
-  A Small Basic project that displays the current time.
+  🔗 Repo: https://github.com/IndianCoder3/basic-time-app
 
 - **Random Particle Graphics**  
-  A visual experiment made using Small Basic graphics.
+  🔗 Repo: https://github.com/IndianCoder3/random-particle-graphics
 
 ---
 
 ### 🧠 Scratch Work
 - **Andex OS** (formerly *Scratch OS*)  
-  A collaborative operating-system–style project built on Scratch for learning and
-  experimentation.
-
-I have been active on Scratch for several years, creating projects, participating
-in forums, and collaborating with other users.
+  🔗 Profile & projects: https://scratch.mit.edu/users/IndianCoder3/
 
 ---
 
