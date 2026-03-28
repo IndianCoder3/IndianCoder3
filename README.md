@@ -5,7 +5,7 @@ Hi! I’m **Abhinu Gupta**, a student developer who enjoys building games, small
 and creative programming projects. I learn by experimenting, iterating, and sharing
 my work online.
 
-Class 5 student - Pronouns: he/him
+Class 6 student - Pronouns: he/him
 
 ---
 
@@ -17,6 +17,9 @@ Class 5 student - Pronouns: he/him
 ---
 
 ## 🚀 Projects
+
+### (WIP) Basic ICTL Programming Language
+A project I am constantly working on, please check https://github.com/IndianCoder3/abhinu-dev_basic-ictl
 
 ### 🕹️ Games
 - **Tic-Tac-Toe**  
