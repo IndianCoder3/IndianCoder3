@@ -1,75 +1,74 @@
-# IndianCoder3 👋  
-**Abhinu Gupta**
+# 👋 Hello, I'm IndianCoder3 | Abhinu Gupta 🚀
 
-Hi! I’m **Abhinu Gupta**, a student developer who enjoys building games, small apps,
-and creative programming projects. I learn by experimenting, iterating, and sharing
-my work online.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Building-brightgreen?style=for-the-badge&logo=visual-studio-code" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-Student_Developer-blue?style=for-the-badge" alt="Role" />
+  <img src="https://img.shields.io/badge/Class-6_CBSE-orange?style=for-the-badge" alt="Class" />
+</p>
 
-Class 6 student - Pronouns: he/him
-
----
-
-## 🌐 Online Presence
-- 🌍 Portfolio: https://indiancoder3.netlify.app/
-- 🧩 Scratch: https://scratch.mit.edu/users/IndianCoder3/
-- 💻 GitHub: https://github.com/IndianCoder3
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IndianCoder3&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
-## 🚀 Projects
+### 👤 About Me
 
-### (WIP) Basic ICTL Programming Language
-A project I am constantly working on, please check https://github.com/IndianCoder3/abhinu-dev_basic-ictl
+Hi! I’m **Abhinu Gupta**, a student developer who enjoys building custom programming languages, interactive web deployments, and application logic. I learn by breaking things, tinkering with infrastructure, and iterating fast.
 
----
-
-### 🕹️ Games
-- **Tic-Tac-Toe**  
-  HTML & JavaScript game  
-  🌐 Demo: https://indiancoder3.netlify.app/projects
-
-- **Snake & Ladder Game** (Scratch)  
-  🔗 Project: https://scratch.mit.edu/users/IndianCoder3/
+- 🔭 **Current Focus:** Developing **Basic ICTL**, a custom programming language.
+- 🌱 **Learning Journey:** Deployed on **Cloudflare Ecosystems** and scaling web performance.
+- 💬 **Pronouns:** `he/him`
 
 ---
 
-### 🐍 Python Projects
-- **BMI App**  
-  🔗 Repo: https://github.com/IndianCoder3/bmi-app
+### 🌐 Connect With Me
 
-- **PyCalc**  
-  🔗 Repo: https://github.com/IndianCoder3/pycalc
-
-- **QR Code Generator**  
-  🔗 Repo: https://github.com/IndianCoder3/qr-code-generator
-  🔗 New Repo: https://github.com/IndianCoder3/Str-QR-Code-Gen_ic3
+<p align="left">
+  <a href="https://IndianCoder3.pages.dev"><img src="https://img.shields.io/badge/Portfolio-Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://scratch.mit.edu/users/IndianCoder3/"><img src="https://img.shields.io/badge/Scratch-IndianCoder3-orange?style=for-the-badge&logo=scratch&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🧩 Small Basic Projects
-- **Basic Time App**  
-  🔗 Repo: https://github.com/IndianCoder3/basic-time-app
+### 🛠️ Tech Stack & Tools
 
-- **Random Particle Graphics**  
-  🔗 Repo: https://github.com/IndianCoder3/random-particle-graphics
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
----
-
-### 🧠 Scratch Work
-- **Andex OS** (formerly *Scratch OS*)  
-  🔗 Profile & projects: https://scratch.mit.edu/users/IndianCoder3/
-
----
-
-## 🛠️ Skills & Interests
-- Programming fundamentals & problem solving  
-- Python  
-- HTML, CSS, JavaScript (basics)  
-- Scratch & visual programming  
-- Exploring how operating systems work  
+  <!-- Platforms & Tools -->
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 📌 About This Profile
-This repository serves as my GitHub profile README and a central place to connect
-my projects, portfolio, and Scratch work.
+### 🚀 Featured Projects
+
+#### 🌐 Team & Collaboration Works
+* **[AstralyxPvP Server Website](https://github.com/AstralyxPvP/astralyxpvp-site)** - Co-developed a responsive community website hub for a custom Minecraft gaming server network. 🎮
+
+#### 💻 Core Development
+* **[Basic ICTL Programming Language](https://github.com/IndianCoder3/abhinu-dev_basic-ictl) (WIP)** - A custom interpreted/compiled concept language built from scratch.
+* **[Andex OS](https://scratch.mit.edu/users/IndianCoder3/)** - An interactive operating system simulation engine designed inside Scratch.
+
+#### 🐍 Python Utilities
+* **[Str-QR-Code-Gen_ic3](https://github.com/IndianCoder3/Str-QR-Code-Gen_ic3)** - A clean string-to-QR code generation utility.
+* **[PyCalc](https://github.com/IndianCoder3/pycalc)** - A standalone Python calculation engine.
+
+#### 🕹️ Web Apps & Visuals
+* **[Tic-Tac-Toe & Web Projects](https://IndianCoder3.pages.dev)** - Clean frontend JavaScript deployment optimized for performance on Cloudflare.
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=IndianCoder3&theme=github-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
+  <br />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IndianCoder3&theme=react-dark" alt="IndianCoder3's Activity Graph" />
+</p>
